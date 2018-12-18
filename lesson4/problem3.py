@@ -6,4 +6,3 @@ Science = 95
 average =  (English + Math + History + Science) / 4 
 
 print(average)
-© 2018 GitHub, Inc.
